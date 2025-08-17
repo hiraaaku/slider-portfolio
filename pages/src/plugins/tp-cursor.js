@@ -94,7 +94,7 @@ export default function cursorAnimation() {
             // Cursor view on hover (data attribute "data-cursor="...").
             $("[data-cursor]").each(function () {
                 $(this).on("mouseenter", function () {
-                    if ($("#ball").find(".ball-view").length === 0) { // Check if "View Demo" text is not already present
+                    if ($("#ball").find(".ball-view").length === 0) { // Check if "Click Photo!" text is not already present
                         $("#ball").addClass("with-blur");
                         $ball.append('<div class="ball-view"></div>');
                         $(".ball-view").append($(this).attr("data-cursor"));

@@ -1,9 +1,9 @@
 import { Metadata } from "next";
-import HomeEightMain from "./(homes)/home-8/page"; // ← ganti ke home-8
+import HomeEightMain from "./(homes)/home-8/page";
 
 export const metadata: Metadata = {
-  title: "Liko - Portfolio Showcase", // sesuaikan judul
-  description: "Modern portfolio dengan efek 3D dan klik untuk detail.",
+  title: "Matt's B'day <3", // sesuaikan judul
+  description: "Happy Birthday Matt! 🎉", // sesuaikan deskripsi
 };
 
 export default function Home() {

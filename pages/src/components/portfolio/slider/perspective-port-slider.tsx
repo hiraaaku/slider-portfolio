@@ -12,32 +12,32 @@ import port_5 from "@/assets/img/home-09/slider/slider-5.jpg";
 const portfolio_data = [
   {
     id: 1,
-    title: "Keepgrading",
-    category: "Branding",
+    title: "Happy Birthday!",
+    category: "My Dearest Matt",
     image: port_1,
   },
   {
     id: 2,
-    title: "Fiedunit",
-    category: "Branding",
+    title: "Found Us",
+    category: "We",
     image: port_2,
   },
   {
     id: 3,
-    title: "Roadtrip",
-    category: "Branding",
+    title: "Remember?",
+    category: "It Begins Here",
     image: port_3,
   },
   {
     id: 4,
-    title: "Perspective",
-    category: "Photography",
+    title: "Hello",
+    category: "Our First",
     image: port_4,
   },
   {
     id: 5,
-    title: "Roadtrip",
-    category: "Branding",
+    title: "Forever",
+    category: "Let Us Be",
     image: port_5,
   },
 ];
@@ -66,7 +66,7 @@ export default function PerspectivePortfolioSlider() {
                           </span>
                           <h1
                             className="tp-portfolio-9-title tp_reveal_anim not-hide-cursor"
-                            data-cursor="View<br>Demo"
+                            data-cursor="Click<br>Photo!"
                           >
                             <Link
                               className="cursor-hide"

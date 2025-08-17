@@ -8,7 +8,7 @@ gsap.registerPlugin(ScrollTrigger, ScrollSmoother, SplitText);
 
 // internal imports
 import Wrapper from "@/layouts/wrapper";
-import HeaderEleven from "@/layouts/headers/header-eleven";
+import HeaderMinimal from "@/layouts/headers/header-minimal";
 import ProjectThree from "@/components/project/project-three";
 import FooterTwo from "@/layouts/footers/footer-two";
 // animation
@@ -31,7 +31,7 @@ const PortfolioShowcaseMain = () => {
   return (
     <Wrapper>
       {/* header area start */}
-      <HeaderEleven transparent={true} />
+      <HeaderMinimal transparent={true} />
       {/* header area end */}
 
       <div id="smooth-wrapper">
