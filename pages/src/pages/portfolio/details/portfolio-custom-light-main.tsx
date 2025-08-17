@@ -8,7 +8,7 @@ gsap.registerPlugin(ScrollTrigger, ScrollSmoother, SplitText);
 
 // internal imports
 import Wrapper from "@/layouts/wrapper";
-import HeaderSeven from "@/layouts/headers/header-seven";
+import HeaderSeven from "@/layouts/headers/header-minimal";
 import PortfolioDetailsCustomLightArea from "@/components/portfolio/details/portfolio-details-custom-light-area";
 import FooterTwo from "@/layouts/footers/footer-two";
 // animation

@@ -10,7 +10,7 @@ gsap.registerPlugin(ScrollTrigger, ScrollSmoother, SplitText);
 // internal imports
 import Wrapper from "@/layouts/wrapper";
 import HeaderEleven from "@/layouts/headers/header-eleven";
-import Social from "@/components/social/social";
+// import Social from "@/components/social/social";
 import { Dots } from "@/components/svg";
 import FooterTwo from "@/layouts/footers/footer-two";
 // animation

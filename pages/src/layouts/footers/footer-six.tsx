@@ -4,7 +4,7 @@ import Link from "next/link";
 import { Email, Location } from "@/components/svg";
 import logo from "@/assets/img/logo/logo-white.png";
 import payment from "@/assets/img/inner-shop/payment.png";
-import social_data from "@/data/social-data";
+// import social_data from "@/data/social-data";
 
 export default function FooterSix() {
   return (

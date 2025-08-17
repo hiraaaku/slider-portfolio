@@ -11,7 +11,7 @@ gsap.registerPlugin(ScrollTrigger, ScrollSmoother, SplitText);
 import Wrapper from "@/layouts/wrapper";
 import HeaderEleven from "@/layouts/headers/header-eleven";
 import FooterTwo from "@/layouts/footers/footer-two";
-import Social from "@/components/social/social";
+// import Social from "@/components/social/social";
 import { Dots } from "@/components/svg";
 // animation
 
